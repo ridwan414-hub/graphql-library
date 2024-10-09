@@ -6,25 +6,26 @@ This project is a frontend application for a library management system built wit
 
 ## Project Structure
 
+```
 library-frontend/
 ├── public/
-│ └── vite.svg
+│   └── vite.svg
 ├── src/
-│ ├── components/
-│ │ ├── Authors.jsx
-│ │ ├── BirthYearForm.jsx
-│ │ ├── BookFormModal.jsx
-│ │ ├── Books.jsx
-│ │ ├── LoginForm.jsx
-│ │ ├── NewBook.jsx
-│ │ ├── Notify.jsx
-│ │ └── Recommend.jsx
-│ ├── utils/
-│ │ └── updateCache.js
-│ ├── App.jsx
-│ ├── index.css
-│ ├── main.jsx
-│ └── queries.js
+│   ├── components/
+│   │   ├── Authors.jsx
+│   │   ├── BirthYearForm.jsx
+│   │   ├── BookFormModal.jsx
+│   │   ├── Books.jsx
+│   │   ├── LoginForm.jsx
+│   │   ├── NewBook.jsx
+│   │   ├── Notify.jsx
+│   │   └── Recommend.jsx
+│   ├── utils/
+│   │   └── updateCache.js
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── queries.js
 ├── .eslintrc.cjs
 ├── .gitignore
 ├── index.html
@@ -33,6 +34,7 @@ library-frontend/
 ├── README.md
 ├── tailwind.config.js
 └── vite.config.js
+```
 
 ## Project Overview
 
